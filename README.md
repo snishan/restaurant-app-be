@@ -14,11 +14,11 @@ This repository contains the backend code for the Restaurant App. It provides AP
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/restaurant-app-be-private.git
+    git clone https://github.com/yourusername/restaurant-app-be.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd restaurant-app-be-private
+    cd restaurant-app-be
     ```
 3. Install dependencies:
     ```sh
